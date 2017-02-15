@@ -1,5 +1,12 @@
-# hello-world
-Torturer for new to Git world
+LeetCode
+========
 
-2016-10-04, 12:20
-now status, new branch added, and will do some commit practice
+###LeetCode Algorithm
+
+(Notes: "&hearts;" means you need to buy a book from Leetcode)
+
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./algorithms/cpp/totalHammingDistance/totalHammingDistance.cpp)|Easy|
+|415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/addStrings/AddStrings.cpp)|Easy|
