@@ -8,5 +8,5 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./algorithms/cpp/totalHammingDistance/totalHammingDistance.cpp)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./algorithms/cpp/string/344_reverseString/reverseString.cpp)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/addStrings/AddStrings.cpp)|Easy|
