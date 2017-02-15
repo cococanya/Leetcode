@@ -14,7 +14,7 @@ class Solution {
 public:
     string reverseString(string s) {
         char tmpChar;
-        for(int i=0; i<s.size()/2; i++)
+        for(int i=0; i<s.size()/2; i++) // keypoint: just swap from start to middle, not to end ...
         {
             tmpChar = s[i];
             s[i] = s[s.size()-1-i];
